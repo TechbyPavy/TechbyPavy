@@ -11,6 +11,7 @@
   <img alt="Pavy-Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Pavy-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="Pavy-Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img alt="Pavy-Flet" height="40" src="https://flet.dev/img/logo.svg">
 </div>
 
 
