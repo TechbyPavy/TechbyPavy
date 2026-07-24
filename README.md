@@ -1,16 +1,14 @@
-## Hi there, I'm Patricia, Beginner Developer. I love tech and inovation! 👋
+## Hi there, I'm Patricia, UI/UX Designer& Frontent Learner. I love tech and inovation! 👋
 
 - ⚡ I’m currently working on front-end
 - 🌱 I’m currently learning HTML, CSS, Java Script
 - 😄 Pronouns: she/her
 
 <div style="display: flex; gap: 10px;">
-  <img alt="Pavy-JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Pavy-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Pavy-JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Pavy-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Pavy-Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Pavy-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Pavy-Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img alt="Pavy-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img alt="Pavy-Flet" height="40" src="https://flet.dev/img/logo.svg">
 </div>
 
