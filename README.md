@@ -1,4 +1,4 @@
-## Hi there, I'm Patricia, UI/UX Designer& Frontent Learner. I love tech and inovation! 👋
+## Hi there, I'm Patricia, UI/UX Designer & Frontend Learner. I love tech and inovation! 👋
 
 - ⚡ I’m currently working on front-end
 - 🌱 I’m currently learning HTML, CSS, Java Script
